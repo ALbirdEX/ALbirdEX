@@ -1,4 +1,7 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&size=30&duration=2000&pause=1000&color=272580&background=54FF4C00&multiline=true&random=false&width=515&lines=Hi%F0%9F%91%8Bthis+is+ALbirdEX's+GitHub+profile)](https://git.io/typing-svg)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!--
 **ALbirdEX/ALbirdEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
