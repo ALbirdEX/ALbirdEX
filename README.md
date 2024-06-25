@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&size=30&duration=2000&pause=1000&color=36BFF7&background=54FF4C00&multiline=true&random=false&width=530&lines=Hi+%F0%9F%91%8B+this+is+ALbirdEX's+GitHub+profile)](https://git.io/typing-svg)
 <div id="header">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBoZHQwcDIwcGI5b3p6OXg4eHpqMzNiczZ0cjJzaWJmMTYwN2hpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHYyN3ViOGlzNWZmcnNleXR6Ynd6a25wNGE3eHV0aGt1ZTlsNWJweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" width="200"/>
 </div>
 
 <!--
