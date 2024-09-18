@@ -4,7 +4,10 @@
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/alexander-teteryukov">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://camo.githubusercontent.com/7b7a8d2f4db367bde9e4650441234bf6b8bc0fd2fdf9072d810089787c416fdd/68747470733a2f2f63646e302e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f736f6369616c2d636972636c652d332f37322f4c696e6b6564696e2d36342e706e67" alt="LinkedIn Badge" width="40" height="40" ;/>
+  </a>
+   <a href="https://t.me/ALbirdEX">
+    <img src="https://camo.githubusercontent.com/62a50c2a5e82f091134ff3a4a538ec3a06682bb890f83fa0f1fa988bbab64ad5/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f736f6369616c636f6e65732f3530382f54656c656772616d2d3531322e706e67" alt="LinkedIn Badge" width="40" height="40" ;/>
   </a>
 </div>
 <h3>Languages and Tools:</h3>
